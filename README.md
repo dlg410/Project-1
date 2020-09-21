@@ -1,6 +1,6 @@
 # Guidelines for Project 1
 
-git@github.com:dlg410/Project-1.git
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
 
 This document contains guidelines, requirements, and suggestions for Project 1.
 
