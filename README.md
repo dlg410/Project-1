@@ -1,5 +1,7 @@
 # Guidelines for Project 1
 
+git@github.com:dlg410/Project-1.git
+
 This document contains guidelines, requirements, and suggestions for Project 1.
 
 ## Team Effort
@@ -72,4 +74,4 @@ As long as your slides meet the [presentation requirements](PresentationRequirem
 
 ### Copyright
 
-Coding Boot Camp © 2017. All Rights Reserved.
+<!-- Coding Boot Camp © 2017. All Rights Reserved. -->
